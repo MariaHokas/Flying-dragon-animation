@@ -1,0 +1,10 @@
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\bin\Debug\ANimationHArj.exe.config
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\bin\Debug\ANimationHArj.exe
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\bin\Debug\ANimationHArj.pdb
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.Properties.Resources.resources
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.csproj.GenerateResource.cache
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.csproj.CoreCompileInputs.cache
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.exe
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.pdb
+c:\users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.Game.resources
+C:\Users\maria\source\repos\ANimationHArj\ANimationHArj\obj\Debug\ANimationHArj.csprojAssemblyReference.cache
